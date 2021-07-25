@@ -7,4 +7,4 @@ Customer: Customer demographics,
 Product: Product category and sub-category information, 
 Transaction: Customer transaction details
 
-Refer Entity relationship diagram to understand how the tables are related to each other
+Refer Entity relationship diagram to understand how the tables are related to each other.
